@@ -1,12 +1,9 @@
 ## EditorX
+# Project Title
+    -Your Own Code Editor
 A collaborative, real-time code editor where users can seamlessly code together. It provides a platform for multiple users to enter a room, share a unique room ID, and collaborate on code simultaneously.
 
-![GitHub contributors](https://img.shields.io/github/contributors/sahilatahar/Code-Sync?style=for-the-badge&color=48bf21)
-![GitHub Repo stars](https://img.shields.io/github/stars/sahilatahar/Code-Sync?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/sahilatahar/Code-Sync?style=for-the-badge&color=d7af2d)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/sahilatahar/Code-Sync?style=for-the-badge&color=f47373)
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsahilatahar%2FCode-Sync&label=Repo%20Views&countColor=%2337d67a&labelStyle=upper)
 
 ## 🔮 Features
 
@@ -29,7 +26,7 @@ A collaborative, real-time code editor where users can seamlessly code together.
 
 ## 🚀 Live Preview
 
-You can view the live preview of the project [here](https://code-sync-live.vercel.app/).
+You can view the live preview of the project [here](https://blockchain-frontend-two.vercel.app/).
 
 ## 💻 Tech Stack
 
@@ -49,7 +46,7 @@ You can view the live preview of the project [here](https://code-sync-live.verce
 1. **Fork this repository:** Click the Fork button located in the top-right corner of this page to fork the repository.
 2. **Clone the repository:**
     ```bash
-    git clone https://github.com/<your-username>/Code-Sync.git
+    git clone https://github.com/Rutvik020302/Blockchain_battlers_033.git
     ```
 3. **Set .env file:**
    Inside the client and server directories rename the `.env.example` file to `.env` and set the following environment variables:
@@ -88,31 +85,57 @@ You can view the live preview of the project [here](https://code-sync-live.verce
     http://localhost:5173/
     ```
 
-## 🔮 Features for next release
+## Desktop View 1
 
--   **Admin Permission:** Implement an admin permission system to manage user access levels and control over certain platform features.
 
-## 🤝 Contribute
 
-We welcome contributions to make Code Sync even better! Whether you're reporting a bug, suggesting a new feature, or fixing a typo, your input is valuable to us. Follow the [contribution guidelines](CONTRIBUTING.md) to get started.
 
-## 🌟 Support Us
 
-If you find this helpful or valuable, please consider 🌟 starring the repository. It helps us gain visibility and encourages further development. We appreciate your support!
+  ![Screenshot 2024-10-05 170651](https://github.com/user-attachments/assets/7661c949-e487-4774-870d-6cd9da1007cd)
 
-## 🧾 License
 
-This project is licensed under the [MIT License](LICENSE).
+## Desktop View 2
 
-## 🌟 Appreciation for Resources
+ ![Screenshot 2024-10-05 170743](https://github.com/user-attachments/assets/90170cd0-aa0a-4e5a-8446-2462ca4a66d8)
 
-Special thanks to EMKC for providing the Piston API, enabling code execution. For more information, visit the following links:
 
--   [Piston Repository](https://github.com/engineer-man/piston)
--   [Piston Docs](https://piston.readthedocs.io/en/latest/api-v2/)
+## Desktop View 3
 
-Also, huge gratitude to Tldraw contributors for their amazing library. For more information about Tldraw, please visit:
 
--   [Tldraw Repository](https://github.com/tldraw/tldraw)
--   [Tldraw Documentation](https://tldraw.dev/)
+ ![Screenshot 2024-10-05 170931](https://github.com/user-attachments/assets/c12c09cd-3182-4ac8-81f4-3c394c67f262)
+
+
+## Desktop View 4
+
+ ![Screenshot 2024-10-05 171014](https://github.com/user-attachments/assets/0853ada5-e212-42b4-878a-b6839b15bd4d)
+
+
+## Mobile View 1
+
+
+
+
+
+  ![Screenshot 2024-10-05 170720](https://github.com/user-attachments/assets/f52456df-1351-45aa-8c15-68e33dff678e)
+
+
+## Mobile View 2
+
+  ![Screenshot 2024-10-05 170803](https://github.com/user-attachments/assets/043f35fa-6e97-4123-8473-13648cabd4fd)
+
+
+## Mobile View 3
+
+
+  ![Screenshot 2024-10-05 170953](https://github.com/user-attachments/assets/56271af9-4e28-4e9b-b594-13be15603da6)
+
+
+## Mobile View 4
+
+ ![Screenshot 2024-10-05 171027](https://github.com/user-attachments/assets/58968bf3-dad5-474b-9bc9-9d1574a6a6bf)
+
+
+
+
+
 
