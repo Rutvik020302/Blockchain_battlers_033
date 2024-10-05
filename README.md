@@ -134,8 +134,21 @@ You can view the live preview of the project [here](https://blockchain-frontend-
 
  ![Screenshot 2024-10-05 171027](https://github.com/user-attachments/assets/58968bf3-dad5-474b-9bc9-9d1574a6a6bf)
 
+## Contributors
+
+Thanks to these wonderful people who have contributed to this project:
+- Rutvik Pethe (Team-Lead) Link- https://github.com/Rutvik020302
+- Parveen Barak (Collab) Link- https://github.com/parveenbarak
 
 
+## Presentation
 
+-Youtube - https://youtu.be/lPnw6dWAf5M
+
+-Questionaire - https://youtu.be/lPnw6dWAf5M
+
+## Acknowledgments
+
+- Inspired by our personal journey of creating collaborative tools, we developed EditorX to simplify and enhance the coding experience for developers.
 
 
